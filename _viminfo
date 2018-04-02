@@ -21,16 +21,12 @@
 # Registers:
 
 # File marks:
-'0  2  9  ~\.gitignore
+'0  1  0  ~\.git\COMMIT_EDITMSG
 
 # Jumplist (newest first):
--'  2  9  ~\.gitignore
--'  1  0  ~\.gitignore
+-'  1  0  ~\.git\COMMIT_EDITMSG
 
 # History of marks within files (newest to oldest):
 
-> ~\.gitignore
-	"	2	9
-	^	2	10
-	.	2	9
-	+	2	9
+> ~\.git\COMMIT_EDITMSG
+	"	1	0
