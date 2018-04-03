@@ -10,3 +10,4 @@
 >>>>>>> another
 7.上传Tomcat到系统上
 8.解压Tomcat
+9.配置Tomcat
